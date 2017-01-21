@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="workouts">
+        <item>7 Minute Ab Buster</item>
+        <item>Upper Body</item>
+        <item>Lower Body</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stay Fit!</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_start_workout">StartWorkout</string>
+    <string name="title_activity_exercise_details">ExerciseDetails</string>
+    <string name="title_activity_create_workout">CreateWorkout</string>
+    <string name="open_navigation">Open navigation drawer</string>
+    <string name="close_navigation">Close navigation drawer</string>
+</resources>

@@ -1,0 +1,7 @@
+#Wed Jan 04 00:11:38 AEDT 2017
+base.0=/Users/stuarthinchliff/Documents/TestEnvironment/coding/AndroidApplications/FitnessApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b1edaad262dd855519edebd8da2dbb1fd947e529
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/stuarthinchliff/Documents/TestEnvironment/coding/AndroidApplications/FitnessApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_496999d80f6e58d7bc913fdd3f0cfaeddfd1f930/classes.dex
+base.1=/Users/stuarthinchliff/Documents/TestEnvironment/coding/AndroidApplications/FitnessApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_496999d80f6e58d7bc913fdd3f0cfaeddfd1f930
+file.0=/Users/stuarthinchliff/Documents/TestEnvironment/coding/AndroidApplications/FitnessApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b1edaad262dd855519edebd8da2dbb1fd947e529/classes.dex

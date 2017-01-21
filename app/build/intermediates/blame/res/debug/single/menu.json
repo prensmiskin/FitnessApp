@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/stuarthinchliff/Documents/TestEnvironment/coding/AndroidApplications/FitnessApp/app/build/intermediates/res/merged/debug/menu/main_drawer.xml",
+        "source": "/Users/stuarthinchliff/Documents/TestEnvironment/coding/AndroidApplications/FitnessApp/app/src/main/res/menu/main_drawer.xml"
+    },
+    {
+        "merged": "/Users/stuarthinchliff/Documents/TestEnvironment/coding/AndroidApplications/FitnessApp/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/stuarthinchliff/Documents/TestEnvironment/coding/AndroidApplications/FitnessApp/app/src/main/res/menu/menu_main.xml"
+    }
+]

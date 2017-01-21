@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/stuarthinchliff/Documents/TestEnvironment/coding/AndroidApplications/FitnessApp/app/build/intermediates/res/merged/debug/drawable-hdpi/file_document_box.png",
+        "source": "/Users/stuarthinchliff/Documents/TestEnvironment/coding/AndroidApplications/FitnessApp/app/build/generated/res/pngs/debug/drawable-hdpi/file_document_box.png"
+    },
+    {
+        "merged": "/Users/stuarthinchliff/Documents/TestEnvironment/coding/AndroidApplications/FitnessApp/app/build/intermediates/res/merged/debug/drawable-hdpi/plus.png",
+        "source": "/Users/stuarthinchliff/Documents/TestEnvironment/coding/AndroidApplications/FitnessApp/app/build/generated/res/pngs/debug/drawable-hdpi/plus.png"
+    },
+    {
+        "merged": "/Users/stuarthinchliff/Documents/TestEnvironment/coding/AndroidApplications/FitnessApp/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_plus_white_36dp.png",
+        "source": "/Users/stuarthinchliff/Documents/TestEnvironment/coding/AndroidApplications/FitnessApp/app/src/main/res/drawable-hdpi/ic_plus_white_36dp.png"
+    }
+]
